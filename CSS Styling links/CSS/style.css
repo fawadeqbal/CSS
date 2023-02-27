@@ -6,19 +6,8 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-/* input, button{
-    font: inherit;
-} */
-
-p {
+a {
     text-decoration: none;
-    text-transform: none;
-    text-align: justify;
-    text-indent: none;
-    line-height: 1.25;
-    letter-spacing: normal;
-    word-spacing: normal;
-    font-weight: normal;
-    font-style: normal;
-    
+    cursor: pointer;
+    color: blue;
 }
